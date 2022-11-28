@@ -67,6 +67,37 @@ thead {
     background-color: rgb(195, 248, 255);
 }
 
+footer {
+    font-size: 25px;
+    color: grey;
+    margin-left: 25px;
+}
+
+#img-monitor {
+    background-image: url(../img/monitor.jpg);
+    background-repeat: no-repeat;
+    background-size: contain;
+    color: white;
+    margin-top: 20px;
+    padding: 15px;
+    width: 400px;
+    height: 200px;
+}
+
+#img-grafico {
+    background-image: url(../img/graph.jpg);
+    background-repeat: no-repeat;
+    background-size: contain;
+    color: white;
+    padding: 15px;
+    width: 400px;
+    height: 200px;
+}
+
+.evidenziatore {
+    background-color: yellow;
+}
+
 
 
 
