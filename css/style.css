@@ -3,6 +3,10 @@
     padding: 0;
 }
 
+body {
+    font-family: 'Times New Roman', Times, serif;
+}
+
 .container {
     height: 180px;
     background-image: url("../img/pattern.png");
@@ -15,13 +19,13 @@
     background-size: 300px;
     background-position: bottom left;
     height: 180px;
-    margin-bottom: 20px;
+    margin-bottom: 40px;
+    margin-left: 25px;
 }
 
 main {
     margin-top: 20px;
-    margin-left: 10px;
-    font-family: 'Times New Roman', Times, serif;
+    margin-left: 25px;
 }
 
 #titolo-principale {
