@@ -1,4 +1,4 @@
-*{
+* {
     margin: 0;
     padding: 0;
 }
@@ -17,6 +17,46 @@
     height: 180px;
     margin-bottom: 20px;
 }
+
+main {
+    margin-top: 20px;
+    margin-left: 10px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#titolo-principale {
+    font-size: 70px;
+}
+
+#didascalia { 
+    font-size: 35px;
+    color: grey;
+}
+
+#autore {
+    color: rgb(0, 218, 255);
+}
+
+#data {
+    font-size: 20px;
+    margin-bottom: 20px;
+}
+
+/* #foto-tim-1 {
+    height: 360px;
+}
+
+#foto-tim-2 {
+    height: 360px;
+} */
+
+#fotografo {
+    font-style: italic;
+    font-size: 
+    15px;
+}
+
+
 
 
 
