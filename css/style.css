@@ -19,13 +19,13 @@ body {
     background-size: 300px;
     background-position: bottom left;
     height: 180px;
-    margin-bottom: 40px;
     margin-left: 25px;
 }
 
 main {
     margin-top: 20px;
     margin-left: 25px;
+    font-size: 20px;
 }
 
 #titolo-principale {
@@ -46,18 +46,25 @@ main {
     margin-bottom: 20px;
 }
 
-/* #foto-tim-1 {
-    height: 360px;
-}
-
-#foto-tim-2 {
-    height: 360px;
-} */
-
 #fotografo {
     font-style: italic;
     font-size: 
     15px;
+}
+
+thead {
+    border: 1px solid black;
+    background-color: rgb(16, 170, 241);
+    color: white;
+    text-align: left;
+}
+
+.row-size {
+    width: 40%;
+}
+
+.colore {
+    background-color: rgb(195, 248, 255);
 }
 
 
